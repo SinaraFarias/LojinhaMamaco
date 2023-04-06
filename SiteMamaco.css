@@ -1,0 +1,25 @@
+# LojinhaMamaco
+img{
+    width: 400;
+    height: auto;
+    position: relative;
+    top:80px; left:500px
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top:80px; left:500px
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    vertical-align: middle;
+}
